@@ -1,7 +1,7 @@
 # prusaSlicer-Post-processing-script
 Here I show an example of a simple python script for prusaSlicer
 
-![image](https://github.com/DaniilMaximov/prusaSlicer-Post-processing-script/assets/90193751/63df13db-8f10-469f-832b-56d4a021bdfb)
+![image](https://github.com/DaniilMaximov/prusaSlicer-Post-processing-script/assets/90193751/5449cdee-a687-4d64-a47a-0e78fb410293)
 Here's how to simply add a script
 
 You need to specify 2 paths
